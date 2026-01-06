@@ -1,0 +1,1 @@
+Machine learning is a subset of artificial intelligence. It enables computers to learn from data without explicit programming. This field has revolutionized industries like healthcare and finance.
